@@ -1,0 +1,9 @@
+{"timestamp": "2026-11-24T08:10:01Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "deploy", "status": "failure", "message": "Failed password for deploy from 185.220.101.42 port 51422 ssh2"}
+{"timestamp": "2026-11-24T08:10:09Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "deploy", "status": "failure", "message": "Failed password for deploy from 185.220.101.42 port 51425 ssh2"}
+{"timestamp": "2026-11-24T08:10:17Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "admin", "status": "failure", "message": "Failed password for invalid user admin from 185.220.101.42 port 51430 ssh2"}
+{"timestamp": "2026-11-24T08:10:25Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "root", "status": "failure", "message": "Failed password for root from 185.220.101.42 port 51434 ssh2"}
+{"timestamp": "2026-11-24T08:10:33Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "deploy", "status": "failure", "message": "Failed password for deploy from 185.220.101.42 port 51441 ssh2"}
+{"timestamp": "2026-11-24T08:11:02Z", "source_ip": "185.220.101.42", "event_type": "sshd", "user": "deploy", "status": "success", "message": "Accepted password for deploy from 185.220.101.42 port 51488 ssh2"}
+{"timestamp": "2026-11-24T08:12:14Z", "source_ip": "185.220.101.42", "event_type": "sudo", "user": "deploy", "status": "success", "message": "deploy : TTY=pts/0 ; PWD=/home/deploy ; USER=root ; COMMAND=/bin/cat /etc/shadow"}
+{"timestamp": "2026-11-24T09:04:11Z", "source_ip": "45.33.32.156", "event_type": "nginx", "user": "anonymous", "status": "failure", "message": "GET /.env HTTP/1.1 404 from 45.33.32.156"}
+{"timestamp": "2026-11-24T09:15:00Z", "source_ip": "10.0.1.14", "event_type": "sshd", "user": "svc_backup", "status": "success", "message": "Accepted publickey for svc_backup from 10.0.1.14 port 44120 ssh2"}
